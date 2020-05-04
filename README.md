@@ -8,7 +8,7 @@ logged in but about to leave.
 or help exploring which users belong to which country
 3. Detect abusive language
 
-#### Bot functionalities and available commands:
+#### Available commands:
 
 1. **H/hi, H/hello** ---> in the public chat will return personal greeting message to the caller
 giving guidance how to use the bot.
@@ -25,7 +25,7 @@ Could be used as reference for showCountry's required parameter.
 7. Detect abusive words in the public chat and send private message
 to the abuser.
 8. Detect if user shouts in the public chat (using only capital letters)
-
+<br/>
 
 *  This bot was build to work and tested in chat.freenode.net server. As server
 messages syntax is quite similar, you can expect it to work in many other servers
