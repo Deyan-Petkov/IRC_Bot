@@ -1,0 +1,1 @@
+Internet Relay Chat (IRC) Bot allows you to find people from the same country as you or check which nicks are from particular country. You can also send delayed message to people which are not currently in the chat and you expect them to come back when you are not in.
